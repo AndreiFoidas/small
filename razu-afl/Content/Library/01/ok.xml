@@ -5,7 +5,7 @@
 2351a30a-34bb-492b-92d7-96445a81ebba.f510f302-f5d6-4030-a21e-2a107afeace0.description=<pre>Generates a random number.\n\nInputs\:\nmax - The maximum number that can be returned.\nmin - The minimum number that can be returned.\n\nResponses\:\nsuccess - The operation completed Successfully.\nfailure - Something went wrong.\n\nReturns\:\nA random number between max and min (inclusive)</pre>
 ]]></descriptionCdata>
   <annotation></annotation>
-  <name>aok</name>
+  <name>ok</name>
   <categories/>
   <inputs>
     <userInputBinding id="8e1e7e38-c150-4bb1-b61c-05f7be08b8fb">
