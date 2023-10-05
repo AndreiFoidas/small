@@ -3,7 +3,7 @@
   <descriptionCdata><![CDATA[3bed4132-8267-49e1-869b-e0ff1047d80e.783b4d26-c2cd-41c8-bd38-41f6f442a093.description=<pre>Service to retrieve JVM memory usage info (only 1.6 JVMs and 1.5 JVMs). \n\nInput Operators\: \nNone\n\nResponses\:\nsuccess - statistics retrieved successfully\nnon 1.6 jvm - jvm is not version 1.6\nfailure - general failure occurred\n\nExtra Results\:\nheapUsed - contains the amount of memory used (in bytes) in the heap\nheapCommitted - amount of memory in bytes that is committed for the Java virtual machine to use\nheapInit - amount of memory in bytes that the Java virtual machine initially requests from the operating system for memory management\nheapMax - Returns the maximum amount of memory in bytes that can be used for memory management\nnonHeapUsed - contains the amount of memory used (in bytes)\nnonHeapCommitted - amount of memory in bytes that is committed for the Java virtual machine to use\nnonHeapInit - amount of memory in bytes that the Java virtual machine initially requests from the operating system for memory management\nnonHeapMax - Returns the maximum amount of memory in bytes that can be used for memory management\n</pre>
 ]]></descriptionCdata>
   <annotation></annotation>
-  <name>cheack_gc</name>
+  <name>check_gc</name>
   <categories/>
   <inputs/>
   <possibleResponses>
