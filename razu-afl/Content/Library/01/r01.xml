@@ -35,7 +35,7 @@
 572ea18f-d7d0-4c3b-999b-b44053ac94bf.fb741373-0bdb-4c0c-8971-66fd8a70ceb6.description=<pre>Generates a random number.\n\nInputs\:\nmax - The maximum number that can be returned.\nmin - The minimum number that can be returned.\n\nResponses\:\nsuccess - The operation completed Successfully.\nfailure - Something went wrong.\n\nReturns\:\nA random number between max and min (inclusive)</pre>
 ]]></descriptionCdata>
   <annotation>572ea18f-d7d0-4c3b-999b-b44053ac94bf.description</annotation>
-  <name>ra01</name>
+  <name>r01</name>
   <categories/>
   <inputs>
     <staticBinding id="1b779181-8d6c-4938-b711-afed88e9990a">
