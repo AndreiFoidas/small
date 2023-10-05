@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd7d166b-0057-4c6e-bf68-99d764654d42" name="Changes" comment="d">
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Configuration/Categories/f1.properties" beforeDir="false" afterPath="$PROJECT_DIR$/razu-afl/Content/Configuration/Categories/f1.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Configuration/Domain Terms/f1.properties" beforeDir="false" afterPath="$PROJECT_DIR$/razu-afl/Content/Configuration/Domain Terms/f1.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Configuration/Group Aliases/f1.properties" beforeDir="false" afterPath="$PROJECT_DIR$/razu-afl/Content/Configuration/Group Aliases/f1.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Configuration/Role Aliases/f1.properties" beforeDir="false" afterPath="$PROJECT_DIR$/razu-afl/Content/Configuration/Role Aliases/f1.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Library/01.properties" beforeDir="false" afterPath="$PROJECT_DIR$/razu-afl/Content/Library/01.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Library/01/Random Number Generator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/razu-afl/Content/Library/01/Random Number Generator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Library/01/abc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/razu-afl/Content/Library/01/abc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Library/01/flow_des.xml" beforeDir="false" afterPath="$PROJECT_DIR$/razu-afl/Content/Library/01/flow_des.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Library/01/flow_des2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/razu-afl/Content/Library/01/flow_des2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Library/01/flow_des3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/razu-afl/Content/Library/01/flow_des3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Library/01/flow_inputs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/razu-afl/Content/Library/01/flow_inputs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Library/01/flow_responses.xml" beforeDir="false" afterPath="$PROJECT_DIR$/razu-afl/Content/Library/01/flow_responses.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Library/01/flow_script.xml" beforeDir="false" afterPath="$PROJECT_DIR$/razu-afl/Content/Library/01/flow_script.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Library/01/ok.xml" beforeDir="false" afterPath="$PROJECT_DIR$/razu-afl/Content/Library/01/ok.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Library/01/outputs_filters.xml" beforeDir="false" afterPath="$PROJECT_DIR$/razu-afl/Content/Library/01/outputs_filters.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Library/01/r01.xml" beforeDir="false" afterPath="$PROJECT_DIR$/razu-afl/Content/Library/01/r01.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Library/01/tst.xml" beforeDir="false" afterPath="$PROJECT_DIR$/razu-afl/Content/Library/01/tst.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Library/02.properties" beforeDir="false" afterPath="$PROJECT_DIR$/razu-afl/Content/Library/02.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Library/02/a7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Library/02/a8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Library/02/crt_flow.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Library/02/flow2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/razu-afl/Content/Library/02/write_flow.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="cd7d166b-0057-4c6e-bf68-99d764654d42" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,14 +31,6 @@
     </configuration>
   </component>
   <component name="TaskManager">
-    <task id="LOCAL-00001" summary="d">
-      <created>1696515498203</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1696515498203</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,9 +43,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="d" />
-    <option name="LAST_COMMIT_MESSAGE" value="d" />
   </component>
 </project>
