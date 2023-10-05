@@ -6,7 +6,7 @@
 3d4d896f-9d3d-4b8f-810e-17f73ac81128.f86a7623-2cb2-40f6-8cf6-093e76c3d2e3.description=<pre>Generates a random number.\n\nInputs\:\nmax - The maximum number that can be returned.\nmin - The minimum number that can be returned.\n\nResponses\:\nsuccess - The operation completed Successfully.\nfailure - Something went wrong.\n\nReturns\:\nA random number between max and min (inclusive)</pre>
 ]]></descriptionCdata>
   <annotation>3d4d896f-9d3d-4b8f-810e-17f73ac81128.description</annotation>
-  <name>flow_desa2</name>
+  <name>flow_des2</name>
   <categories/>
   <inputs>
     <staticBinding id="2b92e773-9930-4f4f-8114-4e4bed618a75">
