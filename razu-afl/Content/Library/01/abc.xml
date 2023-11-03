@@ -54,7 +54,7 @@
     <name>Operation abc (12608ef1-d2e5-4c9b-9058-31cbb9aee43f)</name>
     <script>myBranchData = scriptletBranchContext.get(&quot;myBranchVarName&quot;); 
  
-// To get value associated with the context key myContextKey: 
+// To get value associated with the context key myContextKey: aaa
 myContextData $= scriptletContext.get(&quot;myContextKey&quot;); 
  
 // To get value associated with the context key myContextKey from the local context: 
